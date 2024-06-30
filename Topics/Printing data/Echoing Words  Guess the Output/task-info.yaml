@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Java 101\n\n
+  - text: Java 101
+  - text: Java101
+  - text: Java 101\n
+  - text: Java\n101
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/47400#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sat, 29 Jun 2024 11:49:04 UTC"
+record: -1
+selected_options:
+  - 3
+custom_name: "Echoing Words: Guess the Output!"
+local_check: false
