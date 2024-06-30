@@ -10,3 +10,4 @@ content:
   - Reading a single word
   - Printing strings in the same order
   - Understanding System.in
+  - Print strings in the reverse order

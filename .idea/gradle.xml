@@ -27,6 +27,7 @@
             <option value="$PROJECT_DIR$/Topics/Comments/Groups of comments" />
             <option value="$PROJECT_DIR$/Topics/Comments/Hello, Java platform" />
             <option value="$PROJECT_DIR$/Topics/Comments/Incorrect comments" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Javadoc comment" />
             <option value="$PROJECT_DIR$/Topics/Comments/Leave it for later" />
             <option value="$PROJECT_DIR$/Topics/Comments/Printing only the longest line" />
             <option value="$PROJECT_DIR$/Topics/Comments/Statements" />
@@ -97,6 +98,7 @@
             <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Complete the user greeting program" />
             <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Different types" />
             <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Guest list of a hotel" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Print strings in the reverse order" />
             <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Printing each word in a new line" />
             <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Printing strings in the same order" />
             <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Reading a number" />
